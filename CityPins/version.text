@@ -1,0 +1,15 @@
+
+/*
+  File.strings
+  CityPin
+
+  Created by lujie on 14-8-16.
+  Copyright (c) 2014年 CityPin. All rights reserved.
+*/
+
+/*
+ add by lujie 2014-8-16 am
+ 这个版本使用了iOS自带的坐标定位 里面有坐标转化的代码
+--change
+ 改成使用百度地图自带的坐标定位
+*/
