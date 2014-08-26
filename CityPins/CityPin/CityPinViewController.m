@@ -71,8 +71,8 @@
     [self.myparkBtn addTarget:self action:@selector(myparkBtnAction:) forControlEvents:UIControlEventTouchUpInside];
     self.myparkBtn.userInteractionEnabled = YES;
     [self.view addSubview:self.findparkBtn];
-    [self.view addSubview:self.stickwarBtn];
-    [self.view addSubview:self.myparkBtn];
+//    [self.view addSubview:self.stickwarBtn];
+//    [self.view addSubview:self.myparkBtn];
     
     //添加定位导航按钮
     self.nav_location_Btn = [[UIButton alloc] initWithFrame:CGRectMake(15, self.view.bounds.size.height - 170, 32, 32)];
