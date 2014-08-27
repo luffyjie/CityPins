@@ -1,13 +1,11 @@
 /**
-*
-*城市图钉
+version 1.0
 
-百度地图＋友盟统计 
+this app make by 3 developer, wo are a team.
+citypin is want to solve thre question about park. use citypins, when we get you location,wo can quickly show you
+best park pin near you.
 
-根据用户当前的地理位置，获取周围的停车位。
-
-//遇到git 坑我的问题，这个项目上传到git废了我不少时间，不过还是解决了。
+IN this app i use baiduMap sdk, and Ument sdk.
 
 
-**
-/
+**/
